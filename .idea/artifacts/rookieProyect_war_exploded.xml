@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="rookieProyect:war exploded">
+    <output-path>$USER_HOME$/Downloads/SM2/IdeaProjects/Rookie/target/rookieProyect</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="rookieProyect" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.testng:testng:6.9.10" />
+          <element id="library" level="project" name="Maven: com.beust:jcommander:1.48" />
+          <element id="library" level="project" name="Maven: org.beanshell:bsh:2.0b4" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/Downloads/SM2/IdeaProjects/Rookie/target/rookieProyect/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="rookieProyect/web/Web" />
+    </root>
+  </artifact>
+</component>

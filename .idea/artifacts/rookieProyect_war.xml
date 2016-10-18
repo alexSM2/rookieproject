@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rookieProyect:war">
+    <output-path>$USER_HOME$/Downloads/SM2/IdeaProjects/Rookie/target</output-path>
+    <root id="archive" name="rookieProyect.war">
+      <element id="artifact" artifact-name="rookieProyect:war exploded" />
+    </root>
+  </artifact>
+</component>
